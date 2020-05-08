@@ -12,3 +12,11 @@ like normal, BUT the player is obligated to roll again
       is disabled
 
 GAME END STATE: The first player to 50 wins.
+
+Built With
+    -> Android Studio
+        Java for Backend 
+        XML for Layouts
+
+[Android Studio]: https://developer.android.com/studio
+[Java]: https://www.oracle.com/java/technologies/javase-downloads.html
